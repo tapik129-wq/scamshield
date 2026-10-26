@@ -73,4 +73,5 @@ ScamShield is an educational hackathon prototype. Its rule-based checks and opti
 
 **Learn. Detect. Prevent. Stay Safe.**
 
-## Live site: https://tapik129-wq.github.io/scamshield/
+## https://tapik129-wq.github.io/scamshield/
+
